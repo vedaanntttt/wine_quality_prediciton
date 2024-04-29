@@ -1,4 +1,3 @@
-# wine_quality_prediciton
 # wine_quality_prediction
 
 This project explains the procedure to use AWS services to train ML (Machine Learning) model on multiple parallel EC2(Elastic Compute Cloud) instances. The ML program is written in python using Apache Spark MLlib libraries. The training and prediction programs are configured to run inside a container.
