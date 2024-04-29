@@ -24,7 +24,7 @@ except:
 	print("Test File cannot be found/File not passed. Please try again with following parameters\n")
 	print("Pass parameters as: ")
 	print("-----------------------------------------------------------------")
-	print("$sudo docker run -v <host-folder-path>:/job kruthika547nayak/winetest:latest <Name of csv file> ")
+	print("$sudo docker run -v <host-folder-path>:/job vedantpatel/winetest:latest <Name of csv file> ")
 	print("-----------------------------------------------------------------")
 	print("--> Make sure that the <host-folder-path> contains the CSV as well as Model file for prediction")
 	print("***********************************************************************")
